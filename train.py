@@ -23,5 +23,5 @@ torch.save(model, MODEL_DIR + f'model_CnnText.pth')
 
 
 """
-这是一段测试的文件
+这里是tag2的测试哦！！
 """
